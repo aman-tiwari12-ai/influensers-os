@@ -1,0 +1,11 @@
+anthropic>=0.25.0
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.0.0
+youtube-transcript-api>=0.6.2
+requests>=2.31.0
+sib-api-v3-sdk>=7.6.0
+instagrapi>=2.0.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+pyyaml>=6.0.1
